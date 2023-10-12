@@ -1,0 +1,122 @@
+/* header start  */
+
+header{
+    position: static;
+    padding: 30px;
+    /* border: 1px solid ; */
+
+}
+
+/* header end */
+/* slider start  */
+.slider_section{
+    padding-bottom: 100px;
+   
+}
+
+.carousel-caption{
+   top:50%;
+   left: 50%;
+   transform: translate(-50%);
+   padding-top: 0px;
+   
+}
+
+/* slider end */
+
+/* abuot start */
+.aboutsection{
+    padding-bottom: 100px;
+ 
+}
+.con_1{  
+
+}
+.p_about{
+    padding: 0px 10px;
+    font-size: 25px;
+}
+h1{
+    /* font-size: 55px; */
+    margin: 15px 0;
+}
+.p_about_text{
+    padding: 0px 10px;
+    font-size: 16px;
+}
+
+.img{
+    /* height: 100vh; */
+}
+.img-heigth{
+   
+}
+.img img{
+    /* height: 100vh; */
+    width: 100%;
+
+}
+.img2 img{
+    width: 100%;
+
+
+}
+
+
+/* abuot end */
+
+/* Featured start */
+.Featured{
+  padding-bottom: 100px;
+}
+.co_2{
+}
+
+.textend{
+
+}
+.textend h2{
+
+}
+.textend a{
+    display: inline-block;
+    text-decoration: none;
+    float:right;
+
+    color:red;
+    font-size: 20px;
+}
+.frist_blog{
+}
+.bottom_tex{
+    /* height: 100vh; */
+    /* margin-top: 20px; */
+    /* border: 1px solid gold; */
+}
+.f_img{
+    margin-bottom: 20px;
+   
+}
+
+
+/* Featured end  */
+
+
+.bg1{
+    padding-bottom: 100px;
+   
+
+}
+.bg{
+    background-image: url(../images/bg2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    /* height: 150vh; */
+
+}
+.p_b{
+    padding-bottom: 100px;
+    /* border: 1px solid red; */
+
+}
